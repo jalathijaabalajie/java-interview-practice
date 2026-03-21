@@ -1,3 +1,4 @@
+package Day1;
 public class swapxor {
     public static void main(String[] args) {
         int a = 5;
