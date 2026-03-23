@@ -2,7 +2,7 @@ package Day1;
 public class palindrome {
     public static void main(String[] args) {
         int given = 121;
-        int num = 121;
+        int num = given;  //copy variable
         int rev = 0;
 
         while(num != 0){

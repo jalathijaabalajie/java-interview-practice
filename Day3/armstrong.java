@@ -3,7 +3,7 @@
     public class armstrong {
     public static void main(String[] args) {
         {
-            int num = 1634;
+            int num = 153;
             int temp = num;
             int count = 0;
             int sum=0;

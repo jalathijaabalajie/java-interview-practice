@@ -4,9 +4,9 @@ public class swap {
         int a = 10;
         int b = 100;
 
-        a = a + b;  //110
-        b= a - b;
-        a= a - b;
+        a = a + b;  //a=110
+        b= a - b;   //b=10  b==a
+        a= a - b;   //a=110-10=100  a=100
 
         System.out.println("a = " +  a);
         System.out.println("b = " + b);

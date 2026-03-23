@@ -14,7 +14,7 @@ public class largest3nos {
             System.out.println("c is largest");
         }
         else{
-            System.out.println("All are equal");
+            System.out.println("Provide 3 different numbers");
         }
 
     }
